@@ -120,9 +120,9 @@ function SignupPopup({ users, isOpen }) {
 										</button>
 									</div>
 									<div className="modal-footer">
-										<a href="#" className="modal-footer__link link">
+										<span className="modal-footer__link link">
 											Забыли пароль?
-										</a>
+										</span>
 									</div>
 								</form>
 							</div>
