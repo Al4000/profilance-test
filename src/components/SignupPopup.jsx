@@ -50,6 +50,8 @@ function SignupPopup({ users, isOpen }) {
 			setTimeout(() => {
 				setLogin('')
 				setPassword('')
+				setValid(false)
+				setSubmit(false)
 			}, 500)
 		} else {
 			setValid(false)

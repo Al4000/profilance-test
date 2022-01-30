@@ -53,6 +53,7 @@ function AddNewsPopup({ isOpen }) {
 			setTimeout(() => {
 				setTitleNews('')
 				setTextNews('')
+				setSubmitAdd(false)
 			}, 500)
 		}
 	}
