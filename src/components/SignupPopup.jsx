@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from 'react'
 import { useDispatch } from 'react-redux'
 import { authLogin, isAdmin, isAuth, openSignup } from '../redux/actions/main'
 import { CSSTransition } from 'react-transition-group'
+import CheckboxIcon from './icons/CheckboxIcon'
 
 function SignupPopup({ users, isOpen }) {
 	const dispatch = useDispatch()
@@ -92,7 +93,7 @@ function SignupPopup({ users, isOpen }) {
 										<input
 											type="password"
 											placeholder="Введите пароль"
-											className={submit && !password || (submit && !valid) ? 'input--error' : ''}
+											className={(submit && !password) || (submit && !valid) ? 'input--error' : ''}
 											onChange={ e => setPassword(e.target.value) }
 										/>
 										{ submit && !password &&
@@ -108,10 +109,7 @@ function SignupPopup({ users, isOpen }) {
 										<label className="modal-label">
 											<span className="modal-label__checkbox">
 												<input type="checkbox" className="modal-label__input" />
-												<svg className="modal-label__svg"
-														 focusable="false" aria-hidden="true" viewBox="0 0 24 24">
-													<path d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-												</svg>
+												<CheckboxIcon />
 											</span>
 											<span>Принимаю условия пользовательского соглашения</span>
 										</label>
