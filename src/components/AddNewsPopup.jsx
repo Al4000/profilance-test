@@ -28,6 +28,7 @@ function AddNewsPopup({ isOpen }) {
 		return function cleanup() {
 			document.body.removeEventListener('keydown', closeOnEsc)
 		}
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [])
 
 	const handleAddNews = (e) => {

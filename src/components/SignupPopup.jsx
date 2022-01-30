@@ -29,6 +29,7 @@ function SignupPopup({ users, isOpen }) {
 		return function cleanup() {
 			document.body.removeEventListener('keydown', closeOnEsc)
 		}
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [])
 
 	const handleSubmit = (e) => {
