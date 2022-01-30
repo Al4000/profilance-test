@@ -1,0 +1,29 @@
+.wrapper {
+	background-color: #fff;
+	padding-top: 48px;
+	padding-bottom: 48px;
+}
+.container {
+	width: 100%;
+	margin-left: auto;
+	box-sizing: border-box;
+	margin-right: auto;
+	display: block;
+	padding-left: $gap-mob;
+	padding-right: $gap-mob;
+	@media (min-width: 600px) {
+		padding-left: $gap;
+		padding-right: $gap;
+	}
+	&--sm {
+		@media (min-width: 600px) {
+			max-width: $container-sm;
+		}
+	}
+	&--md {
+		@media (min-width: 600px) {
+				max-width: $container-md;
+		}
+	}
+}
+

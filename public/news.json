@@ -1,0 +1,88 @@
+[
+	{
+		"title": "Студент установил слежку за Илоном Маском и попросил взамен взять его на работу",
+		"description": "В сети набирает популярность история о том, как студент-первокурсник Джек Суини создал бота, отслеживающего перемещение джета Илона Маска.",
+
+		"urlToImage": "/img/1.jpg",
+		"publishedAt": "28-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "Elon Musk acaba da dar un golpe al sector de los vehículos eléctricos con estos comentarios",
+		"description": "Hace seis meses, Elon Musk comentó que dejaría de asistir a reuniones telefónicas con inversionistas a menos que tuviera \"algo importante\" por decir. Y debió haberse apegado a ese plan.",
+		"urlToImage": "/img/2.jpg",
+		"publishedAt": "27-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "The future is now: After nine years, it’s time to say goodbye to the BMW i3",
+		"description": "After a production run of nine years and more than 250,000 units sold, the BMW i3, BMW’s first “i” brand EV, will cease production later this summer. Even so, the quirky little compact can go out with its head held high, because the electric future it predict…",
+		"urlToImage": "/img/3.jpg",
+		"publishedAt": "26-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "Friday Afternoon’s Analyst Upgrades and Downgrades: Apple, Gilead, Goldman Sachs, Kroger, Raymond James, and More",
+		"description": "Friday afternoon's top analyst upgrades and downgrades included Apple, Gilead, Goldman Sachs, Kroger, Raymond James, and more.",
+		"urlToImage": "/img/4.jpg",
+		"publishedAt": "25-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "Here's Why That $25,000 Tesla Isn't Coming",
+		"description": "Earlier this week, Tesla released its earnings report for the fourth quarter of 2021. The report showed record revenue, but it came with the news of delays to the Cybertruck, Roadster, and an unnamed budget-minded model. Elon Musk’s reason for the delay was t…",
+		"urlToImage": "/img/5.jpg",
+		"publishedAt": "24-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "It’s Going To Be OK — No $25k Tesla Doesn’t Mean No $25k EVs",
+		"description": "After word that a $25,000 basic Tesla has been put on the back burner in favor of other products, I saw a lot of complaining. For many people, a car priced around $25,000 is important. Whether it’s lower or fixed incomes, a desire to be frugal, or just that p…",
+		"urlToImage": "/img/6.jpg",
+		"publishedAt": "23-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "Daimler diventa Mercedes-Benz. Basterà per la grande scalata in Borsa?",
+		"description": "Obiettivo: essere considerata una tech company e migliorare i multipli. La casa di Stoccarda sarà vista dagli investitori come un player della nuova ondata elettrica al pari di Tesla?",
+		"urlToImage": "/img/7.webp",
+		"publishedAt": "22-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "Lucid: Lean Into The Fear",
+		"description": "Shares of Lucid went through a 56% drop in pricing since November. After the drop, the EV maker has a more attractive valuation. Read more on LCID stock here.",
+		"urlToImage": "/img/8.jpg",
+		"publishedAt": "21-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "Tesla lançou seu próprio microfone para fazer karaoke",
+		"description": "Sim, estamos a falar da mesma empresa que fabrica e comercializa os mais modernos carros elétricos do mercado. Contudo, e como já vimos de outras vezes, a Tesla também sai uma pouco da sua...",
+		"urlToImage": "/img/9.jpg",
+		"publishedAt": "20-01-2022",
+		"confirmed": true
+	},
+	{
+		"title": "Маск раскритиковал высказывания Байдена",
+		"description": "Американский предприниматель, основатель компаний Tesla и SpaceX Илон Маск раскритиковал президента США Джо Байдена. По мнению миллиардера, президент недооценивает граждан своей страны, сообщает телеканал \"360\".\n\nПричиной для ...",
+		"urlToImage": "/img/10.png",
+		"publishedAt": "28-01-2021",
+		"confirmed": true
+	},
+	{
+		"title": "Tech's Friday rally can't stop the skid: Nasdaq heads for first five-week losing streak since 2012",
+		"description": "Apple's uplifting results boosted the Nasdaq on Friday, but not enough to keep the index from dropping for a fifth straight week.",
+		"urlToImage": "/img/11.jpg",
+		"publishedAt": "28-01-2020",
+		"confirmed": true
+	},
+	{
+		"title": "CaixaBank S.A. (CAIXY) CEO Gonzalo Gortazar on Q4 2021 Results - Earnings Call Transcript",
+		"description": "CaixaBank S.A. (OTCPK:CAIXY) Q4 2021 Earnings Conference Call January 28, 2022 3:00 AM ETCompany ParticipantsEdward O'Loghlen - Director, Investor RelationsGonzalo Gortazar - Chief...",
+		"urlToImage": "/img/12.png",
+		"publishedAt": "28-01-2019",
+		"confirmed": true
+	}
+]
+
