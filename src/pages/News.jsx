@@ -53,7 +53,7 @@ function News({ isAdmin, isAuth, news }) {
 								: card.confirmed && <NewsItem card={ card } isAdmin={ isAdmin } key={ index } id={ index } />
 							))
 						}
-						{ searchInput.length && !searchNews.length &&
+						{ !!searchInput.length && !searchNews.length &&
 							<h3>
 								Не найдено ни одной новости :(
 							</h3>
