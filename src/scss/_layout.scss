@@ -21,8 +21,8 @@
 		}
 	}
 	&--md {
-		@media (min-width: 600px) {
-				max-width: $container-md;
+		@media (min-width: 900px) {
+			max-width: $container-md;
 		}
 	}
 }

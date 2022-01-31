@@ -111,7 +111,7 @@ function AddNewsPopup({ isOpen }) {
 				</div>
 			</div>
 		</CSSTransition>,
-		document.getElementById("root")
+		document.getElementById('root')
 	)
 }
 

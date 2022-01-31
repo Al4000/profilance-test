@@ -133,7 +133,7 @@ function SignupPopup({ users, isOpen }) {
 				</div>
 			</div>
 		</CSSTransition>,
-		document.getElementById("root")
+		document.getElementById('root')
 	)
 }
 
