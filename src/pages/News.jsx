@@ -10,7 +10,7 @@ function News({ isAdmin, isAuth, news }) {
 	const dispatch = useDispatch()
 	const { newsAddPopupOpen } = useSelector(({ news }) => news)
 	const [searchNews, setSearchNews] = useState([])
-	const [searchInput, setSearchInput] = useState([])
+	const [searchInput, setSearchInput] = useState('')
 
 	// search news
 	const handleSearch = (e) => {
