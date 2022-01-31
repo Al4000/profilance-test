@@ -131,7 +131,7 @@ input, textarea {
 	}
 	&:focus {
 		border-width: 2px;
-		border-color: #2196f3;
+		border-color: $blue;
 	}
 	&.input--error {
 		border-color: #d32f2f;
